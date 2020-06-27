@@ -1,5 +1,5 @@
 applications:
 - path: .
-  name: kss123456
+  name: kss111
   random-route: true
   memory: 256M
